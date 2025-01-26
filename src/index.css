@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --color-primary: hsl(4, 100%, 67%);
+  --color-darkSlateGrey: hsl(234, 29%, 20%);
+  --color-charcoalGrey: hsl(235, 18%, 26%);
+  --color-myGrey: hsl(231, 7%, 60%);
+  --font-Roboto: "Roboto Bold";
+}
+
+body {
+  background-color: var(--color-charcoalGrey);
+}
+
+
+.attribution a {
+  color: hsl(4, 100%, 67%);
+}
