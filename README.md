@@ -1,5 +1,3 @@
-# WIP
-
 # Frontend Mentor - Newsletter sign-up form with success message
 
 This is a solution to the [News homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl).
