@@ -1,7 +1,7 @@
 import "./index.css";
 import HeroImage from "./Components/HeroImage/HeroImage";
 import Footer from "./Components/Footer/Footer";
-import FullForm from "./Components/Form/fullForm";
+import FullForm from "./Components/Form/FullForm";
 
 function App() {
   return (
