@@ -1,8 +1,5 @@
 import "./index.css";
-import Heading from "./Components/Heading/Heading";
 import HeroImage from "./Components/HeroImage/HeroImage";
-import List from "./Components/List/List";
-import Form from "./Components/Form/Form";
 import Footer from "./Components/Footer/Footer";
 import FullForm from "./Components/Form/fullForm";
 
