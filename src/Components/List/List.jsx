@@ -11,7 +11,7 @@ const List = () => {
 
   return (
     <>
-      <ul className="list-none flex flex-col justify-center space-y-2 sm:space-y-4 text-sm sm:text-lg mb-8 sm:mb-0 text-darkSlateGrey">
+      <ul className="list-none flex flex-col justify-center space-y-4 text-sm lg:text-lg my-10 md:my-4 text-darkSlateGrey">
         {listItems.map((item, index) => (
           <li key={index} className="flex">
             <img src={icon} alt="" className="mr-6"/>

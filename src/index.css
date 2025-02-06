@@ -6,6 +6,10 @@
   --color-darkSlateGrey: hsl(234, 29%, 20%);
   --color-charcoalGrey: hsl(235, 18%, 26%);
   --color-myGrey: hsl(231, 7%, 60%);
+  --color-tomato: hsl(4, 100%, 67%);
+  --color-grad-1: #E94F73;
+  --color-grad-2: #EB5A58;
+  --color-grad-3: #EC653B;
   --font-Roboto: "Roboto Bold";
 }
 
