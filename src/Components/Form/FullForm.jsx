@@ -8,7 +8,7 @@ import Footer from "../Footer/Footer";
 const FullForm = () => {
   return (
     <>
-    <div className="flex flex-col md:w-1/2 2xl:w-2/3 p-8 md:p-0 mx-auto justify-center">
+    <div className="flex flex-col sm:w-1/2 md:w-1/2 2xl:w-2/3 p-8 sm:p-0 mx-auto justify-center">
         <Heading />
         <List />
         <Form />

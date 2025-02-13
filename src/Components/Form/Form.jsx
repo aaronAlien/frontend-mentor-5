@@ -35,7 +35,7 @@ const Form = () => {
             placeholder=' email@company.com'
             value={userInput}
             onChange={(e) => setUserInput(e.target.value)}
-            className='px-5 mb-8 border border-myGrey rounded-lg py-4 text-sm lg:text-base lg:px-4'
+            className='lg:mr-8 px-5 mb-6 border border-myGrey rounded-lg py-4 text-sm lg:text-base lg:px-4'
           />
         ) : (
           <input
@@ -45,13 +45,13 @@ const Form = () => {
             placeholder=' email@company.com'
             value={userInput}
             onChange={(e) => setUserInput(e.target.value)}
-            className='px-5 mb-8 border border-tomato bg-tomato/20 rounded-lg py-4 text-sm lg:text-base lg:px-4'
+            className='lg:mr-8 px-5 mb-6 border border-tomato bg-tomato/20 rounded-lg py-4 text-sm lg:text-base lg:px-4'
           />
         )}
 
         <button
           type='submit'
-          className='mb-8 bg-darkSlateGrey text-white font-bold rounded-lg py-4 text-sm lg:text-base lg:px-4 hover:cursor-pointer'
+          className='lg:mr-8 mb-8 bg-darkSlateGrey text-white font-bold rounded-lg py-4 text-sm lg:text-base lg:px-4 hover:cursor-pointer'
         >
           Subscribe to monthly newsletter
         </button>
